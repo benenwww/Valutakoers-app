@@ -1,0 +1,6 @@
+{
+  "name": "ValutaKoers",
+  "description": "Real-time valutaconversie, offline koersen, favoriete paren en spaarpot portfolio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
