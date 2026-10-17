@@ -1,0 +1,6 @@
+{
+  "name": "Deposit Return Calculator",
+  "description": "Track and calculate the deposit refund value for your empty bottles and cans, with live estimation and export options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
